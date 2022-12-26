@@ -1,4 +1,4 @@
-# Archi(ART) - token that has deployed in Hardhat Network
+# Archi(ART) - token that has been deployed in Hardhat Network
 
 ## Technology Stack & Tools
 
